@@ -1,1 +1,1 @@
-All my tasks and progress from the subject will be stored in this repository.
+All my tasks and progress from the subject will be found at the different branches in this repository.
